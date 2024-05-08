@@ -1,0 +1,4 @@
+# Uncomment the following line to disallow listing remote users
+# enable-index = false
+
+users.jay = "Jay Doe <jay.doe@example.com>"
